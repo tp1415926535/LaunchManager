@@ -9,11 +9,13 @@
 **下载 [v1.0]**   
 - 
 
-- 地址1：[Github]()   
-- 地址2：[Gitee]()   
-- 地址3：[蓝奏云]()   
+- 地址1：[Github](https://github.com/tp1415926535/LaunchManager/raw/main/%E5%90%AF%E8%A7%88v1.0.rar)   
+- 地址2：[Gitee](https://gitee.com/tp1415926535/LaunchManager/raw/main/%E5%90%AF%E8%A7%88v1.0.rar)   
+- 地址3：[蓝奏云](https://wwe.lanzouw.com/iEpkqxzzmte)   
    
-   
+*解压后双击“启览.exe”即可使用。*
+  
+    
 **功能**   
 -   
 - 双模式自由切换   
