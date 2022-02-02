@@ -11,7 +11,7 @@
 
 - 地址1：[Github](https://github.com/tp1415926535/LaunchManager/raw/main/%E5%90%AF%E8%A7%88v1.1.rar)   
 - 地址2：[Gitee](https://gitee.com/tp1415926535/LaunchManager/raw/main/%E5%90%AF%E8%A7%88v1.1.rar)   
-- 地址3：[蓝奏云](https://wwe.lanzouw.com/iHYuWzd2g3e)   
+- 地址3：[蓝奏云](https://wwe.lanzouw.com/iZP4Pziggyj)   
    
 *解压后双击“启览.exe”即可使用。*
   
@@ -50,6 +50,6 @@
     
 **历史版本**   
 -  
-　**v1.1版**　2022/01/22 修复快捷方式勾选原路径无效问题；改变视图模式文字、按钮布局、选择效果     
+　**v1.1版**　2022/01/22 修复快捷方式勾选原路径无效问题；改变视图模式文字、按钮布局、选择效果；增加视图右键     
 　**v1.0版**　2021/12/26 基本功能实现
 
