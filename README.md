@@ -6,7 +6,7 @@
 ![编辑模式](https://github.com/tp1415926535/LaunchManager/blob/main/%E6%88%AA%E5%9B%BE/%E5%90%AF%E8%A7%88%20%E7%BC%96%E8%BE%91%E6%A8%A1%E5%BC%8F.jpg)     
 ![视图模式](https://github.com/tp1415926535/LaunchManager/blob/main/%E6%88%AA%E5%9B%BE/%E5%90%AF%E8%A7%88%20%E8%A7%86%E5%9B%BE%E6%A8%A1%E5%BC%8F.jpg)     
     
-**下载 [v1.1]**   
+**下载 [v1.2]**   
 - 
 
 - 地址1：[Github](https://github.com/tp1415926535/LaunchManager/raw/main/%E5%90%AF%E8%A7%88v1.2.rar)   
@@ -50,6 +50,7 @@
     
 **历史版本**   
 -  
+　**v1.2版**　2022/03/26 分类列改为可选；增加窗体状态（最大化/常规）记录；改变快捷按钮布局、窗体预设大小；     
 　**v1.1版**　2022/01/22 修复快捷方式勾选原路径无效问题；改变视图模式文字、按钮布局、选择效果；增加视图右键     
 　**v1.0版**　2021/12/26 基本功能实现
 
