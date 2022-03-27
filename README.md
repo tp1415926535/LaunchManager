@@ -11,7 +11,7 @@
 
 - 地址1：[Github](https://github.com/tp1415926535/LaunchManager/raw/main/%E5%90%AF%E8%A7%88v1.2.rar)   
 - 地址2：[Gitee](https://gitee.com/tp1415926535/LaunchManager/raw/main/%E5%90%AF%E8%A7%88v1.2.rar)   
-- 地址3：[蓝奏云](https://wwp.lanzouw.com/ifpd8025f6ze)   
+- 地址3：[蓝奏云](https://wwp.lanzouw.com/iS6tT025g55e)   
    
 *解压后双击“启览.exe”即可使用。*
   
